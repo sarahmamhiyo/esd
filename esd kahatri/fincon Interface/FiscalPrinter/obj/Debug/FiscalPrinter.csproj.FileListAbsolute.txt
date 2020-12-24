@@ -1,0 +1,11 @@
+C:\Users\user\documents\visual studio 2017\Projects\FiscalPrinter\FiscalPrinter\bin\Debug\FiscalPrinter.exe.config
+C:\Users\user\documents\visual studio 2017\Projects\FiscalPrinter\FiscalPrinter\bin\Debug\FiscalPrinter.exe
+C:\Users\user\documents\visual studio 2017\Projects\FiscalPrinter\FiscalPrinter\bin\Debug\FiscalPrinter.pdb
+C:\Users\user\documents\visual studio 2017\Projects\FiscalPrinter\FiscalPrinter\obj\Debug\Interop.EltradeFPAx.dll
+C:\Users\user\documents\visual studio 2017\Projects\FiscalPrinter\FiscalPrinter\obj\Debug\FiscalPrinter.csproj.ResolveComReference.cache
+C:\Users\user\documents\visual studio 2017\Projects\FiscalPrinter\FiscalPrinter\obj\Debug\FiscalPrinter.MainForm.resources
+C:\Users\user\documents\visual studio 2017\Projects\FiscalPrinter\FiscalPrinter\obj\Debug\FiscalPrinter.Properties.Resources.resources
+C:\Users\user\documents\visual studio 2017\Projects\FiscalPrinter\FiscalPrinter\obj\Debug\FiscalPrinter.csproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2017\Projects\FiscalPrinter\FiscalPrinter\obj\Debug\FiscalPrinter.exe
+C:\Users\user\documents\visual studio 2017\Projects\FiscalPrinter\FiscalPrinter\obj\Debug\FiscalPrinter.pdb
+C:\Users\user\documents\visual studio 2017\Projects\FiscalPrinter\FiscalPrinter\obj\Debug\FiscalPrinter.csprojResolveAssemblyReference.cache

@@ -1,0 +1,38 @@
+E:\ESD\important\fincon Interface\FiscalPrinter\bin\x86\Debug\AutoClosingMessageBox.dll
+E:\ESD\important\fincon Interface\FiscalPrinter\obj\x86\Debug\Interop.EltradeFPAx.dll
+E:\ESD\important\fincon Interface\FiscalPrinter\obj\x86\Debug\esd.csproj.ResolveComReference.cache
+E:\ESD\important\fincon Interface\FiscalPrinter\obj\x86\Debug\FiscalPrinter.MainForm.resources
+E:\ESD\important\fincon Interface\FiscalPrinter\obj\x86\Debug\FiscalPrinter.Properties.Resources.resources
+E:\ESD\important\fincon Interface\FiscalPrinter\obj\x86\Debug\esd.csproj.GenerateResource.cache
+E:\ESD\important\fincon Interface\FiscalPrinter\obj\x86\Debug\esd.csproj.CoreCompileInputs.cache
+E:\ESD\important\fincon Interface\FiscalPrinter\obj\x86\Debug\esd.csproj.CopyComplete
+E:\ESD\important\fincon Interface\FiscalPrinter\obj\x86\Debug\esd.csprojAssemblyReference.cache
+E:\ESD\important\fincon Interface\FiscalPrinter\bin\x86\Debug\sunburn.exe.config
+E:\ESD\important\fincon Interface\FiscalPrinter\bin\x86\Debug\sunburn.exe.manifest
+E:\ESD\important\fincon Interface\FiscalPrinter\bin\x86\Debug\sunburn.application
+E:\ESD\important\fincon Interface\FiscalPrinter\bin\x86\Debug\sunburn.exe
+E:\ESD\important\fincon Interface\FiscalPrinter\bin\x86\Debug\sunburn.pdb
+E:\ESD\important\fincon Interface\FiscalPrinter\obj\x86\Debug\sunburn.TrustInfo.xml
+E:\ESD\important\fincon Interface\FiscalPrinter\obj\x86\Debug\sunburn.exe.manifest
+E:\ESD\important\fincon Interface\FiscalPrinter\obj\x86\Debug\sunburn.application
+E:\ESD\important\fincon Interface\FiscalPrinter\obj\x86\Debug\sunburn.exe
+E:\ESD\important\fincon Interface\FiscalPrinter\obj\x86\Debug\sunburn.pdb
+C:\Users\Widows\Desktop\George\esd kahatri\fincon Interface\FiscalPrinter\bin\x86\Debug\AutoClosingMessageBox.dll
+C:\Users\Widows\Desktop\George\esd kahatri\fincon Interface\FiscalPrinter\obj\x86\Debug\Interop.EltradeFPAx.dll
+C:\Users\Widows\Desktop\George\esd kahatri\fincon Interface\FiscalPrinter\obj\x86\Debug\esd.csproj.ResolveComReference.cache
+C:\Users\Widows\Desktop\George\esd kahatri\fincon Interface\FiscalPrinter\obj\x86\Debug\FiscalPrinter.MainForm.resources
+C:\Users\Widows\Desktop\George\esd kahatri\fincon Interface\FiscalPrinter\obj\x86\Debug\FiscalPrinter.Properties.Resources.resources
+C:\Users\Widows\Desktop\George\esd kahatri\fincon Interface\FiscalPrinter\obj\x86\Debug\esd.csproj.GenerateResource.cache
+C:\Users\Widows\Desktop\George\esd kahatri\fincon Interface\FiscalPrinter\obj\x86\Debug\esd.csproj.CoreCompileInputs.cache
+C:\Users\Widows\Desktop\George\esd kahatri\fincon Interface\FiscalPrinter\obj\x86\Debug\esd.csproj.CopyComplete
+C:\Users\Widows\Desktop\George\esd kahatri\fincon Interface\FiscalPrinter\obj\x86\Debug\esd.csprojAssemblyReference.cache
+C:\Users\Widows\Desktop\George\esd kahatri\fincon Interface\FiscalPrinter\bin\x86\Debug\Toparch.exe.config
+C:\Users\Widows\Desktop\George\esd kahatri\fincon Interface\FiscalPrinter\bin\x86\Debug\Toparch.exe.manifest
+C:\Users\Widows\Desktop\George\esd kahatri\fincon Interface\FiscalPrinter\bin\x86\Debug\Toparch.application
+C:\Users\Widows\Desktop\George\esd kahatri\fincon Interface\FiscalPrinter\bin\x86\Debug\Toparch.exe
+C:\Users\Widows\Desktop\George\esd kahatri\fincon Interface\FiscalPrinter\bin\x86\Debug\Toparch.pdb
+C:\Users\Widows\Desktop\George\esd kahatri\fincon Interface\FiscalPrinter\obj\x86\Debug\Toparch.TrustInfo.xml
+C:\Users\Widows\Desktop\George\esd kahatri\fincon Interface\FiscalPrinter\obj\x86\Debug\Toparch.exe.manifest
+C:\Users\Widows\Desktop\George\esd kahatri\fincon Interface\FiscalPrinter\obj\x86\Debug\Toparch.application
+C:\Users\Widows\Desktop\George\esd kahatri\fincon Interface\FiscalPrinter\obj\x86\Debug\Toparch.exe
+C:\Users\Widows\Desktop\George\esd kahatri\fincon Interface\FiscalPrinter\obj\x86\Debug\Toparch.pdb

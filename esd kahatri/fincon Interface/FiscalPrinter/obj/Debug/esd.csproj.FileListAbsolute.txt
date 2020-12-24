@@ -1,0 +1,37 @@
+E:\ESD\important\fincon Interface\FiscalPrinter\obj\Debug\Interop.EltradeFPAx.dll
+E:\ESD\important\fincon Interface\FiscalPrinter\obj\Debug\esd.csproj.ResolveComReference.cache
+E:\ESD\important\fincon Interface\FiscalPrinter\obj\Debug\FiscalPrinter.MainForm.resources
+E:\ESD\important\fincon Interface\FiscalPrinter\obj\Debug\FiscalPrinter.Properties.Resources.resources
+E:\ESD\important\fincon Interface\FiscalPrinter\obj\Debug\esd.csproj.GenerateResource.cache
+E:\ESD\important\fincon Interface\FiscalPrinter\obj\Debug\esd.csproj.CoreCompileInputs.cache
+E:\ESD\important\fincon Interface\FiscalPrinter\bin\Debug\AutoClosingMessageBox.dll
+E:\ESD\important\fincon Interface\FiscalPrinter\obj\Debug\esd.csproj.CopyComplete
+E:\ESD\important\fincon Interface\FiscalPrinter\bin\Debug\macro auto.exe.config
+E:\ESD\important\fincon Interface\FiscalPrinter\bin\Debug\macro auto.exe.manifest
+E:\ESD\important\fincon Interface\FiscalPrinter\bin\Debug\macro auto.application
+E:\ESD\important\fincon Interface\FiscalPrinter\bin\Debug\macro auto.exe
+E:\ESD\important\fincon Interface\FiscalPrinter\bin\Debug\macro auto.pdb
+E:\ESD\important\fincon Interface\FiscalPrinter\obj\Debug\macro auto.TrustInfo.xml
+E:\ESD\important\fincon Interface\FiscalPrinter\obj\Debug\macro auto.exe.manifest
+E:\ESD\important\fincon Interface\FiscalPrinter\obj\Debug\macro auto.application
+E:\ESD\important\fincon Interface\FiscalPrinter\obj\Debug\macro auto.exe
+E:\ESD\important\fincon Interface\FiscalPrinter\obj\Debug\macro auto.pdb
+C:\Users\User\Desktop\work docs\esd kahatri\fincon Interface\FiscalPrinter\bin\Debug\Toparch.exe.config
+C:\Users\User\Desktop\work docs\esd kahatri\fincon Interface\FiscalPrinter\bin\Debug\Toparch.exe.manifest
+C:\Users\User\Desktop\work docs\esd kahatri\fincon Interface\FiscalPrinter\bin\Debug\Toparch.application
+C:\Users\User\Desktop\work docs\esd kahatri\fincon Interface\FiscalPrinter\bin\Debug\Toparch.exe
+C:\Users\User\Desktop\work docs\esd kahatri\fincon Interface\FiscalPrinter\bin\Debug\Toparch.pdb
+C:\Users\User\Desktop\work docs\esd kahatri\fincon Interface\FiscalPrinter\bin\Debug\AutoClosingMessageBox.dll
+C:\Users\User\Desktop\work docs\esd kahatri\fincon Interface\FiscalPrinter\obj\Debug\esd.csprojAssemblyReference.cache
+C:\Users\User\Desktop\work docs\esd kahatri\fincon Interface\FiscalPrinter\obj\Debug\Interop.EltradeFPAx.dll
+C:\Users\User\Desktop\work docs\esd kahatri\fincon Interface\FiscalPrinter\obj\Debug\esd.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\work docs\esd kahatri\fincon Interface\FiscalPrinter\obj\Debug\FiscalPrinter.MainForm.resources
+C:\Users\User\Desktop\work docs\esd kahatri\fincon Interface\FiscalPrinter\obj\Debug\FiscalPrinter.Properties.Resources.resources
+C:\Users\User\Desktop\work docs\esd kahatri\fincon Interface\FiscalPrinter\obj\Debug\esd.csproj.GenerateResource.cache
+C:\Users\User\Desktop\work docs\esd kahatri\fincon Interface\FiscalPrinter\obj\Debug\esd.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\work docs\esd kahatri\fincon Interface\FiscalPrinter\obj\Debug\Toparch.TrustInfo.xml
+C:\Users\User\Desktop\work docs\esd kahatri\fincon Interface\FiscalPrinter\obj\Debug\Toparch.exe.manifest
+C:\Users\User\Desktop\work docs\esd kahatri\fincon Interface\FiscalPrinter\obj\Debug\Toparch.application
+C:\Users\User\Desktop\work docs\esd kahatri\fincon Interface\FiscalPrinter\obj\Debug\esd.csproj.CopyComplete
+C:\Users\User\Desktop\work docs\esd kahatri\fincon Interface\FiscalPrinter\obj\Debug\Toparch.exe
+C:\Users\User\Desktop\work docs\esd kahatri\fincon Interface\FiscalPrinter\obj\Debug\Toparch.pdb
