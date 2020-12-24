@@ -1,0 +1,15 @@
+{
+    "invoice_type1": {
+        "required_field1":[
+            "start_tag","end_tag"
+        ],
+        "required_field2":[
+            "start_tag","end_tag"
+        ]
+    },
+    "invoice_type2": {
+        "required_field":[
+            "start_tag","end_tag"
+        ]
+    }
+}
